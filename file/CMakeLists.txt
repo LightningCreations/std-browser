@@ -1,1 +1,1 @@
-add_library(file src/file.cpp)
+add_library(file src/png.cpp)
